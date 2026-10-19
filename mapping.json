@@ -44057,7 +44057,7 @@
     "Game": "Pokémon Gold, Silver & Crystal",
     "Song": "Pokémon Center Heal (HGSS)",
     "Category": "majoritems",
-    "Composers": "Go Ichinose",
+    "Composers": "Go Ichinose, Shota Kageyama",
     "Converters": "MiaSchemes",
     "Tags": [
       "Spawning",
@@ -44071,9 +44071,9 @@
   },
   {
     "Game": "Pokémon Gold, Silver & Crystal",
-    "Song": "New Pokémon Get",
+    "Song": "New Pokémon Get (HGSS)",
     "Category": "events",
-    "Composers": "Go Ichinose",
+    "Composers": "Go Ichinose, Shota Kageyama",
     "Converters": "MiaSchemes",
     "Tags": [
       "Spawning",
@@ -46800,5 +46800,805 @@
     "Verified": true,
     "Date": "2026-09-06T23:22:08.098768",
     "Binary": "binaries/Diddy Kong Racing/You Cant Beat Me.bin"
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Yoshi's Tropical Island",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CKKdrqPQwTo",
+    "Update Notes": "Fixed overlapping notes. Slight overall volume nerf to fit with new standards.",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 60.568749999999994,
+    "Verified": true,
+    "Date": "2026-09-10T22:01:35.511416",
+    "Binary": "binaries/Mario Party/Yoshis Tropical Island (REV 1).bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Into the Dark Night",
+    "Composers": "Masahiko Kimura",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Spooky"
+    ],
+    "Duration": 102.39999999999999,
+    "Verified": true,
+    "Date": "2026-09-11T03:02:45.459651",
+    "Audio": "https://youtu.be/88V3TjU2j1Q",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Into the Dark Night.bin"
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Moo Moo Farm - Yoshi Valley",
+    "Composers": "Kenta Nagata",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/9GtwAJ3FHak",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 61.413098749999996,
+    "Verified": true,
+    "Date": "2026-09-12T02:38:36.464204",
+    "Binary": "binaries/Mario Kart 64/Moo Moo Farm - Yoshi Valley.bin"
+  },
+  {
+    "Game": "Rivals of Aether",
+    "Song": "Oceanic Breeze",
+    "Composers": "flashygoodness",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 92.596335975,
+    "Verified": true,
+    "Date": "2026-09-14T07:29:35.258379",
+    "Audio": "https://youtu.be/JpKbT3A_60M",
+    "Binary": "binaries/Rivals of Aether/Oceanic Breeze.bin"
+  },
+  {
+    "Game": "Final Fantasy V",
+    "Song": "To the North Mountain",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 51.04247999999999,
+    "Verified": true,
+    "Date": "2026-09-14T18:54:38.793905",
+    "Audio": "https://youtu.be/ZrOP-hypdgE",
+    "Binary": "binaries/Final Fantasy V/To the North Mountain.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Daroach Reunion",
+    "Composers": "Shogo Sakai, Jun Ishikawa",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 36.33618025,
+    "Verified": true,
+    "Date": "2026-09-17T20:22:20.590589",
+    "Audio": "https://youtu.be/BDx10YK9oVM",
+    "Binary": "binaries/Kirby Mass Attack/Daroach Reunion.bin"
+  },
+  {
+    "Game": "Goof Troop",
+    "Song": "Illusion",
+    "Composers": "Yuki Iwai",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 32.512,
+    "Verified": true,
+    "Date": "2026-09-19T05:21:04.768448",
+    "Audio": "https://youtu.be/Aa5kYyWlfDk",
+    "Binary": "binaries/Goof Troop/Illusion.bin"
+  },
+  {
+    "Game": "Rhythm Heaven Groove",
+    "Song": "Space Sentry",
+    "Composers": "Tsunku♂, TNX",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Hhhfk6fFtVQ&t=92",
+    "Additional Notes": "TNX is the production company and music agency that Tsunku♂ operates, which co-developed Rhythm Heaven Groove and helped create the music for the game.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 90.90899999999999,
+    "Verified": true,
+    "Date": "2026-09-19T05:21:32.184784",
+    "Binary": "binaries/Rhythm Heaven Groove/Space Sentry.bin"
+  },
+  {
+    "Game": "Rhythm Heaven Groove",
+    "Song": "Space Sentry (with Chants)",
+    "Composers": "Tsunku♂, TNX",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Hhhfk6fFtVQ",
+    "Additional Notes": "TNX is the production company and music agency that Tsunku♂ operates, which co-developed Rhythm Heaven Groove and helped create the music for the game.",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 90.90899999999999,
+    "Verified": true,
+    "Date": "2026-09-19T05:21:34.082048",
+    "Binary": "binaries/Rhythm Heaven Groove/Space Sentry (with Chants).bin"
+  },
+  {
+    "Game": "Secret of Mana",
+    "Song": "Danger",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 121.12462399999998,
+    "Verified": true,
+    "Date": "2026-09-26T22:39:52.085918",
+    "Audio": "https://youtu.be/DEUbBhXvcwA",
+    "Binary": "binaries/Secret of Mana/Danger.bin"
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "Ghost Trick",
+    "Composers": "Masakazu Sugimori, Yasumasa Kitagawa",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Additional Notes": "First you ghost, then you trick",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 76.59083249999999,
+    "Verified": true,
+    "Date": "2026-09-26T22:41:21.663814",
+    "Audio": "https://youtu.be/zP-flSovXQA",
+    "Binary": "binaries/Ghost Trick Phantom Detective/Ghost Trick.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Cleared at Last",
+    "Composers": "Shogo Sakai",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 5.935256249999999,
+    "Verified": true,
+    "Date": "2026-09-26T22:42:14.613884",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Mass%20Attack/Cleared%20at%20Last.mp3",
+    "Binary": "binaries/Kirby Mass Attack/Cleared at Last.bin"
+  },
+  {
+    "Game": "Final Fantasy XIII",
+    "Song": "March of the Dreadnoughts",
+    "Composers": "Masashi Hamauzu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 134.11750399999997,
+    "Verified": true,
+    "Date": "2026-09-26T22:42:16.859414",
+    "Audio": "https://youtu.be/4KyeKGpJSBE",
+    "Binary": "binaries/Final Fantasy XIII/March of the Dreadnoughts.bin"
+  },
+  {
+    "Game": "Final Fantasy XII",
+    "Song": "Battle with an Esper",
+    "Composers": "Hitoshi Sakimoto",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 96.0,
+    "Verified": true,
+    "Date": "2026-09-26T22:43:52.388902",
+    "Audio": "https://youtu.be/-iDtfcbKW2c",
+    "Binary": "binaries/Final Fantasy XII/Battle with an Esper.bin"
+  },
+  {
+    "Game": "Final Fantasy VIII",
+    "Song": "Find Your Way",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 108.8,
+    "Verified": true,
+    "Date": "2026-09-29T16:05:45.396019",
+    "Audio": "https://youtu.be/YbYvlM8G2P8",
+    "Binary": "binaries/Final Fantasy VIII/Find Your Way.bin"
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Level Up",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.3278705,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:28.425954",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fire%20Emblem%20The%20Blazing%20Blade/Level%20Up.mp3",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Level Up.bin"
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Get Item",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.3394166666666665,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:31.018843",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fire%20Emblem%20The%20Blazing%20Blade/Get%20Item.mp3",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Get Item.bin"
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Saturos Battle",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 87.1457535,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:33.462435",
+    "Audio": "https://youtu.be/b6UDx_cZSYg",
+    "Binary": "binaries/Golden Sun/Saturos Battle.bin"
+  },
+  {
+    "Game": "Pokémon Ranger: Shadows of Almia",
+    "Song": "Cargo Ship",
+    "Composers": "Kinta Sato, Takuto Kitsuta, Shinobu Amayake",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 171.0921875,
+    "Verified": true,
+    "Date": "2026-10-03T01:17:23.157293",
+    "Audio": "https://youtu.be/p4mCIAjrDO0",
+    "Binary": "binaries/Pokémon Ranger Shadows of Almia/Cargo Ship.bin"
+  },
+  {
+    "Game": "Mario Party DS",
+    "Song": "Another Crazy Match",
+    "Composers": "Hironobu Yahata, Shinya Outouge",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 55.8734375,
+    "Verified": true,
+    "Date": "2026-10-03T01:18:27.931647",
+    "Audio": "https://youtu.be/zAsUgM8h7lY",
+    "Binary": "binaries/Mario Party DS/Another Crazy Match.bin"
+  },
+  {
+    "Game": "Octopath Traveler",
+    "Song": "The Riverlands",
+    "Composers": "Yasunori Nishiki",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 138.98721899999998,
+    "Verified": true,
+    "Date": "2026-10-03T01:18:54.012810",
+    "Audio": "https://youtu.be/89OYBL6omvU",
+    "Binary": "binaries/Octopath Traveler/The Riverlands.bin"
+  },
+  {
+    "Game": "Mario + Rabbids Kingdom Battle",
+    "Song": "Spooky Village",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/62a1Hqv-38s",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm",
+      "Spooky"
+    ],
+    "Duration": 98.00520833333333,
+    "Verified": true,
+    "Date": "2026-10-03T18:47:57.229915",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Spooky Village.bin"
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Champion Alder",
+    "Composers": "Shota Kageyama",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 29.368705958333333,
+    "Verified": true,
+    "Date": "2026-10-04T00:41:02.936830",
+    "Audio": "https://youtu.be/fz_uCkdAu_A",
+    "Binary": "binaries/Pokémon Black  White/Champion Alder.bin"
+  },
+  {
+    "Game": "PsiloSybil",
+    "Song": "Intro to Hell",
+    "Composers": "bad_vertex",
+    "Converters": "MiaSchemes",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 4.51704425,
+    "Verified": true,
+    "Date": "2026-10-06T02:54:52.873173",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/PsiloSybil/Intro%20to%20Hell.mp3",
+    "Binary": "binaries/PsiloSybil/Intro to Hell.bin"
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Xelpud Mailer",
+    "Composers": "Takumi Naramura",
+    "Converters": "MiaSchemes",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Duration": 0.7211531250000001,
+    "Verified": true,
+    "Date": "2026-10-06T02:57:03.073799",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Xelpud%20Mailer.mp3",
+    "Binary": "binaries/La-Mulana/Xelpud Mailer.bin"
+  },
+  {
+    "Game": "Skies of Arcadia",
+    "Song": "Battle 1",
+    "Composers": "Yukata Minobe, Tatsuyuki Maeda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 129.457288625,
+    "Verified": true,
+    "Date": "2026-10-07T01:04:23.264732",
+    "Audio": "https://youtu.be/bVaIjkgtJp4",
+    "Binary": "binaries/Skies of Arcadia/Battle 1.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Route 11 (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 39.853425666666666,
+    "Verified": true,
+    "Date": "2026-10-07T17:50:22.359467",
+    "Audio": "https://youtu.be/PL64SssekOc",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Route 11 (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "VS Rocket (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Duration": 68.65016299999999,
+    "Verified": true,
+    "Date": "2026-10-09T20:11:42.659095",
+    "Audio": "https://youtu.be/SVG-n-qSkP4",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/VS Rocket (HGSS).bin"
+  },
+  {
+    "Game": "Final Fantasy II",
+    "Song": "Town (Origins)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 49.17372,
+    "Verified": true,
+    "Date": "2026-10-09T20:12:17.911765",
+    "Audio": "https://youtu.be/RVUU43uzZ5M",
+    "Binary": "binaries/Final Fantasy II/Town (Origins).bin"
+  },
+  {
+    "Game": "Terranigma",
+    "Song": "Dark Side Field",
+    "Composers": "Miyoko Kobayashi",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 68.21093599999999,
+    "Verified": true,
+    "Date": "2026-10-09T20:12:52.614459",
+    "Audio": "https://youtu.be/d21yIvqA2Gw",
+    "Binary": "binaries/Terranigma/Dark Side Field.bin"
+  },
+  {
+    "Game": "Final Fantasy III",
+    "Song": "Doga and Unei (DS)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 38.470569,
+    "Verified": true,
+    "Date": "2026-10-09T20:13:32.173056",
+    "Audio": "https://youtu.be/wxL5_Rv_rQg",
+    "Binary": "binaries/Final Fantasy III/Doga and Unei (DS).bin"
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Icirrus City",
+    "Composers": "Shota Kageyama",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 52.74639420833333,
+    "Verified": true,
+    "Date": "2026-10-09T21:58:31.889560",
+    "Audio": "https://youtu.be/FV6Y6QHLvhw",
+    "Binary": "binaries/Pokémon Black  White/Icirrus City.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Violet City (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 66.470385,
+    "Verified": true,
+    "Date": "2026-10-09T22:18:41.451457",
+    "Audio": "https://youtu.be/m-C5tPqErNM",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Violet City (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Route 38 (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 54.44225325,
+    "Verified": true,
+    "Date": "2026-10-10T19:44:31.324327",
+    "Audio": "https://youtu.be/R-qDbrD88Y4",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Route 38 (HGSS).bin"
+  },
+  {
+    "Game": "Super Mario Bros. 3",
+    "Song": "Airship BGM",
+    "Composers": "Koji Kondo",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 27.525119999999998,
+    "Verified": true,
+    "Date": "2026-10-10T19:45:10.554054",
+    "Audio": "https://youtu.be/ENQ9eH2d9nc",
+    "Binary": "binaries/Super Mario Bros 3/Airship BGM.bin"
+  },
+  {
+    "Game": "Secret of Mana",
+    "Song": "Ceremony",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 47.001599999999996,
+    "Verified": true,
+    "Date": "2026-10-10T19:45:32.982028",
+    "Audio": "https://youtu.be/NhrNYY3cZMs",
+    "Binary": "binaries/Secret of Mana/Ceremony.bin"
+  },
+  {
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "Song": "Monster House!",
+    "Composers": "Arata Iiyoshi",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 103.497973425,
+    "Verified": true,
+    "Date": "2026-10-12T06:33:12.267802",
+    "Audio": "https://youtu.be/U3peY_s_oTg",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Monster House.bin"
+  },
+  {
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "Song": "On the Beach at Dusk",
+    "Composers": "Arata Iiyoshi",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 149.99853954583332,
+    "Verified": true,
+    "Date": "2026-10-12T06:33:55.648424",
+    "Audio": "https://youtu.be/EwPrkTZf00Q",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/On the Beach at Dusk.bin"
+  },
+  {
+    "Game": "Mario Party DS",
+    "Song": "Bowser's Pinball Machine",
+    "Composers": "Hironobu Yahata, Shinya Outouge",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 82.14079087500001,
+    "Verified": true,
+    "Date": "2026-10-12T06:34:58.369323",
+    "Audio": "https://youtu.be/cm4-QY-PnHU",
+    "Binary": "binaries/Mario Party DS/Bowsers Pinball Machine.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "VS Rival (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 69.44066791666667,
+    "Verified": true,
+    "Date": "2026-10-13T05:47:30.143891",
+    "Audio": "https://youtu.be/Q2iRoGRirRI",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/VS Rival (HGSS).bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Ruins at Night",
+    "Composers": "Shogo Sakai",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 57.69880593749999,
+    "Verified": true,
+    "Date": "2026-10-13T05:55:42.862899",
+    "Audio": "https://youtu.be/4EzI_kiX5T4",
+    "Binary": "binaries/Kirby Mass Attack/Ruins at Night.bin"
+  },
+  {
+    "Game": "Sub-Terrania",
+    "Song": "Heroes Theme",
+    "Composers": "Jesper Kyd",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 158.4,
+    "Verified": true,
+    "Date": "2026-10-14T02:53:17.239938",
+    "Audio": "https://youtu.be/fs20ZZX9ou0",
+    "Binary": "binaries/Sub-Terrania/Heroes Theme.bin"
+  },
+  {
+    "Game": "Hamsterz Life",
+    "Song": "Menu 2",
+    "Composers": "Shinsuke Kudou, Shin Nakajima, Yumi Satake",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Duration": 47.142832,
+    "Verified": true,
+    "Date": "2026-10-14T03:10:05.700849",
+    "Audio": "https://youtu.be/IKlfwQklcoc",
+    "Binary": "binaries/Hamsterz Life/Menu 2.bin"
+  },
+  {
+    "Game": "Picross 3D",
+    "Song": "Fairground",
+    "Composers": "Hirokazu Ando, Jun Ishikawa, Yasumasa Yamada",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 90.517175,
+    "Verified": true,
+    "Date": "2026-10-16T14:06:40.329777",
+    "Audio": "https://youtu.be/zPJuvUOS0fo",
+    "Binary": "binaries/Picross 3D/Fairground.bin"
+  },
+  {
+    "Game": "Xenogears",
+    "Song": "Infiltration",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 120.00001599999999,
+    "Verified": true,
+    "Date": "2026-10-16T14:25:52.631292",
+    "Audio": "https://youtu.be/paCZqmt5KhU",
+    "Binary": "binaries/Xenogears/Infiltration.bin"
+  },
+  {
+    "Game": "Xenogears",
+    "Song": "Shevat -The Wind Calls-",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm",
+      "Winter"
+    ],
+    "Duration": 180.84498,
+    "Verified": true,
+    "Date": "2026-10-17T05:21:31.961882",
+    "Audio": "https://youtu.be/OJZ4td9xXE8",
+    "Binary": "binaries/Xenogears/Shevat -The Wind Calls-.bin"
+  },
+  {
+    "Game": "Final Fantasy",
+    "Song": "Chaos' Temple (GBA/PS1)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 60.0381590625,
+    "Verified": true,
+    "Date": "2026-10-17T22:09:54.364472",
+    "Audio": "https://youtu.be/EO0Cob6hf94",
+    "Binary": "binaries/Final Fantasy/Chaos Temple (GBAPS1).bin"
+  },
+  {
+    "Game": "Skies of Arcadia",
+    "Song": "Uninhabited Island",
+    "Composers": "Yukata Minobe, Tatsuyuki Maeda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 151.30359664583335,
+    "Verified": true,
+    "Date": "2026-10-18T18:53:02.648478",
+    "Audio": "https://youtu.be/CrY6o6JLz0o",
+    "Binary": "binaries/Skies of Arcadia/Uninhabited Island.bin"
+  },
+  {
+    "Game": "Skies of Arcadia",
+    "Song": "Bombardment 2",
+    "Composers": "Yukata Minobe, Tatsuyuki Maeda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 107.3063605625,
+    "Verified": true,
+    "Date": "2026-10-18T18:54:41.407534",
+    "Audio": "https://youtu.be/gaTCRT3VRI4",
+    "Binary": "binaries/Skies of Arcadia/Bombardment 2.bin"
   }
 ]
